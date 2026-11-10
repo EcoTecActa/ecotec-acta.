@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "EcoTec Acta - Tecnología que cuida",
+  "short_name": "EcoTec Acta",
+  "description": "Aprende a reducir, reutilizar y reciclar residuos electrónicos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfdf9",
+  "theme_color": "#16834a",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
